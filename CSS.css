@@ -1,10 +1,13 @@
-.gauche{width:20%;
+.gauche{width:18%;
 		float:left;
-		margin-left:5%;}
+		margin-left:10%;
+		}
 
-.droite{width:65%;
+.droite{width:58%;
 		float:right;
-		margin-right:5%;}
+		margin-right:10%;
+		border-color: #0000ff;
+		border-left-style:solid;}
 
 .gauched1{width:45%;
 		float:left;
@@ -16,3 +19,7 @@
 		}
 
 .textcenter{text-align:center;}
+.menu{
+	margin-left:10%;
+	margin-right:10%;
+}
